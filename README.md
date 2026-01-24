@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Preetham Poojari  
 **A passionate Frontend / Full-Stack Web Developer from India**
 
-I build responsive, scalable web applications using **React, Next.js, Node.js, Express.js, PostgreSQL**, and **AWS**.  
+I build responsive, scalable web applications using **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL**, and **AWS**.  
 I enjoy designing clean UIs, building efficient APIs, and deploying production-ready systems.
 
 ---
